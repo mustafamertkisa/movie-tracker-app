@@ -4,7 +4,7 @@
 
 This project is a Movie Database Application built using the MERN stack. It allows users to browse through a collection of movies, view details about each movie, and create movie list to the database.
 
-![Movie Tracker App](https://i.hizliresim.com/lu2db34.gif)
+![Movie Tracker App](MovieTracker.gif)
 
 - MongoDB: Database for storing movie data
 - Express.js: Backend framework for handling HTTP requests and routes
